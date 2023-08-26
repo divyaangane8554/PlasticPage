@@ -18,6 +18,11 @@ body {
     padding-top: 1.2rem;
 }
 
+#body-header img{
+    height: auto;
+    width: 150px;
+}
+
 
 
 /* Horizontal Lists */
@@ -26,6 +31,7 @@ body {
     list-style: none;
     padding-left: 0px;
     margin: 0px;
+    margin-top: -40px;
 }
 
 .horizontal-list li {
